@@ -6,8 +6,6 @@ A modern weather application built with React and OpenWeather API that provides 
 
 [View Live App]([your-render-url](https://weather-app-z0cz.onrender.com)) - Check out the weather in your city!
 
-[Alternative Demo](your-backup-url) - Backup deployment
-
 ## 🌟 Features
 
 - **Real-time Weather Data**: 
@@ -18,11 +16,12 @@ A modern weather application built with React and OpenWeather API that provides 
   - Weather conditions
 
 - **User Experience**:
-  - Clean, intuitive interface
-  - Responsive design
-  - Loading states
-  - Error handling
-  - Input validation
+  - Clean and intuitive interface
+  - Fully responsive design for all devices
+  - Loading states for smooth user experience
+  - Robust error handling
+  - Input validation for city search
+
 
 ## 🛠️ Built With
 
@@ -33,7 +32,7 @@ A modern weather application built with React and OpenWeather API that provides 
   - Vite
 
 - **API**:
-  - OpenWeatherMap API
+  - **OpenWeatherMap API** for real-time weather data
 
 ## 🚀 Getting Started
 
