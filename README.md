@@ -4,7 +4,7 @@ A modern weather application built with React and OpenWeather API that provides 
 
 ## 🌟 Live Demo
 
-[View Live App]([your-render-url](https://weather-app-z0cz.onrender.com)) - Check out the weather in your city!
+[View Live App](https://weather-app-z0cz.onrender.com) - Check out the weather in your city!
 
 ## 🌟 Features
 
